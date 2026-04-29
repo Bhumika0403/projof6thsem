@@ -1,6 +1,6 @@
-# 🚀 Phoenix - AI-Powered Virtual Study Room
+# 🚀 Study Stream - AI-Powered Virtual Study Room
 
-Phoenix is a full-stack, real-time virtual study platform built to enhance collaborative learning. It seamlessly integrates a real-time group chat system with a highly responsive, integrated AI Study Assistant. Students can join study rooms, share resources, and get instant answers to their academic queries without ever leaving the platform.
+Study Stream is a full-stack, real-time virtual study platform built to enhance collaborative learning. It seamlessly integrates a real-time group chat system with a highly responsive, integrated AI Study Assistant. Students can join study rooms, share resources, and get instant answers to their academic queries without ever leaving the platform.
 
 ## ✨ Key Features
 
